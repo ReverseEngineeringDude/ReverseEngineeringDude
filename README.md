@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About Me  
-- 👦 I’m **{{AGE}} years old** from **Kadalundi, Kerala, India**
+- 👦 I’m **21 years old** from **Kadalundi, Kerala, India**
 - 🔭 Working on **private security & dev projects**  
 - 🌱 Exploring **AI** and **Flutter app development**  
 - 💬 Ask me about **reverse engineering, binary patching & app reversing**  
