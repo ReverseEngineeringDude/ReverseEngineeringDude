@@ -2,7 +2,7 @@ from datetime import date
 import re
 
 # 🎂 Replace with your real birthdate
-BIRTH_YEAR = 2004
+BIRTH_YEAR = 2003
 BIRTH_MONTH = 12
 BIRTH_DAY = 3
 
