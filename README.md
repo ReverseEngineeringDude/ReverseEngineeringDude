@@ -1,88 +1,125 @@
+<!-- Header banner -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0A0A23&height=200&section=header&text=Praveen%20MT&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Reverse%20Engineer%20%7C%20Developer%20%7C%20Tech%20Explorer&descSize=18&descAlignY=60" alt="Praveen MT banner" width="100%" />
 
-  <img src="https://avatars.githubusercontent.com/u/70425782?v=4" width="160" style="border-radius:50%; box-shadow: 0 0 20px rgba(0,255,255,0.4);" />
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/70425782%3Fv%3D4&w=180&h=180&fit=cover&mask=circle" width="140" alt="Praveen MT" />
+  <br/>
 
-  <h1>Hey, I'm <span style="color:#00FFFF;">Praveen MT</span></h1>
-  <h3>Reverse Engineer | Developer | Tech Explorer</h3>
+  <a href="https://github.com/ReverseEngineeringDude">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=480&lines=Breaking+Code+to+Understand+It;Building+Things+That+Matter;Learning+Every+Single+Day" alt="Typing SVG" />
+  </a>
 
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Breaking+Code+to+Understand+It;Building+Things+That+Matter;Learning+Every+Single+Day" alt="Typing SVG" />
-  </p>
+  <br/><br/>
 
+  <img src="https://komarev.com/ghpvc/?username=ReverseEngineeringDude&label=Profile%20views&color=00FFFF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ReverseEngineeringDude?style=for-the-badge&logo=github&color=00FFFF&labelColor=0A0A23" alt="Followers" />
 </div>
 
+<br/>
+
+## About Me
+
+- 21 years old, from **Kadalundi, Kerala, India**
+- Working on **private security & dev projects**
+- Exploring **AI** and **Flutter** app development
+- Ask me about **reverse engineering, binary patching & app reversing**
+- Reach me on [Telegram](https://t.me/reverseengineeringdude)
+- Fun fact: *Spider-Man inspires me, but spiders still scare me*
+
 ---
 
-### 🚀 About Me  
-- 👦 I’m **21 years old** from **Kadalundi, Kerala, India**
-- 🔭 Working on **private security & dev projects**  
-- 🌱 Exploring **AI** and **Flutter app development**  
-- 💬 Ask me about **reverse engineering, binary patching & app reversing**  
-- 📫 Reach me on [Telegram](https://t.me/reverseengineeringdude)  
-- ⚡ Fun fact: *Spiderman 🕸️ inspires me, but spiders 🕷️ still scare me 😂*
+## Tech Stack
 
----
-
-### 🌐 Connect With Me
 <p align="center">
-  <a href="https://x.com/redbytesec" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://fb.com/redbyte.sec" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/Red_byte.sec" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/@ReverseEngineeringDude" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://www.linkedin.com/in/redbytesec" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,c,dart,flutter,java,js,react,nodejs,linux,git&perline=10" alt="Tech stack" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-FF007F?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Reverse Engineering" />
+  <img src="https://img.shields.io/badge/Binary%20Patching-0A0A23?style=for-the-badge&logo=gnu&logoColor=00FFFF" alt="Binary Patching" />
+  <img src="https://img.shields.io/badge/App%20Reversing-00FFFF?style=for-the-badge&logo=android&logoColor=0A0A23" alt="App Reversing" />
 </p>
 
 ---
 
-### 🛠 Tech Stack
+## Featured Projects
+
+### Highlighted
+
+| Project | About |
+|:--|:--|
+| **[FireXploit](https://github.com/ReverseEngineeringDude/FireXploit)**<br/><br/><a href="https://github.com/ReverseEngineeringDude/FireXploit/releases/tag/latest"><img src="https://img.shields.io/badge/Latest%20Release-00FFFF?style=for-the-badge&logo=github&logoColor=0A0A23&labelColor=0A0A23" alt="Latest%20Release" /></a> | Advanced Firebase analysis, security auditing and exploration toolkit for developers and security researchers. Comes with a sleek "Liquid Glass" interface to scan, analyze and interact with Firebase projects using only a configuration, an Android resource file (`resources.arsc`), or decompiled Flutter application binaries.<br/><sub>The repository is sometimes private for maintenance and security.</sub> |
+| **[Harmony Music](https://github.com/ReverseEngineeringDude/Harmony-Music)**<br/><sub>Open-source contribution</sub><br/><br/><a href="https://github.com/ReverseEngineeringDude/Harmony-Music/releases/tag/v1.0.9"><img src="https://img.shields.io/badge/Release%20v1.0.9-00FFFF?style=for-the-badge&logo=github&logoColor=0A0A23&labelColor=0A0A23" alt="Release%20v1.0.9" /></a> | Cross-platform music streaming app made with Flutter, for Android, Windows and Linux. |
+| **[PharmAssist ERP](https://github.com/ReverseEngineeringDude/PharmAssist)**<br/><br/><a href="https://github.com/ReverseEngineeringDude/PharmAssist/releases/tag/v1.0.9"><img src="https://img.shields.io/badge/Release%20v1.0.9-00FFFF?style=for-the-badge&logo=github&logoColor=0A0A23&labelColor=0A0A23" alt="Release%20v1.0.9" /></a> | Open-source, enterprise-grade pharmacy management app for desktop and mobile. Offline-first architecture for Point-of-Sale (POS) billing, medicine inventory tracking, bulk imports and expiry monitoring, with data sync to Google Cloud Firestore. |
+
+### More Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ReverseEngineeringDude/portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReverseEngineeringDude&repo=portfolio&theme=tokyonight&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF" alt="Portfolio" />
+      </a>
+      <br/>
+      <a href="https://reverseengineeringdude.web.app/">Live Site</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ReverseEngineeringDude/LyricVibe">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReverseEngineeringDude&repo=LyricVibe&theme=tokyonight&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF" alt="LyricVibe" />
+      </a>
+      <br/>
+      <a href="https://lyricvibes.web.app/">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ReverseEngineeringDude/Blind-assist">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReverseEngineeringDude&repo=Blind-assist&theme=tokyonight&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF" alt="Blind Assist" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ReverseEngineeringDude/LatePass">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReverseEngineeringDude&repo=LatePass&theme=tokyonight&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF" alt="Late Pass" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" colspan="2">
+      <a href="https://github.com/ReverseEngineeringDude/DataStructure">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReverseEngineeringDude&repo=DataStructure&theme=tokyonight&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF" alt="DataStructure" />
+      </a>
+      <br/>
+      <a href="https://reverseengineeringdude.github.io/DataStructure/">Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Reverse%20Engineering-FF007F?style=for-the-badge&logo=radar&logoColor=white" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ReverseEngineeringDude&show_icons=true&theme=tokyonight&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReverseEngineeringDude&layout=compact&theme=tokyonight&title_color=00FFFF&border_color=00FFFF" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ReverseEngineeringDude&theme=tokyonight&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&border=00FFFF" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReverseEngineeringDude&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&area_color=00FFFF&hide_border=true" alt="Contribution graph" width="100%" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ReverseEngineeringDude&theme=dark&hide_border=false" />
-</p>
-
----
-### 📌 Featured Projects  
-
-<div align="center">
-
-| Project | Logo | Links |
-|---------|------|-------|
-| **Blind Assist** | <img src="https://raw.githubusercontent.com/ReverseEngineeringDude/Blind-assist/main/assets/img/logo.png" width="80"/> | [GitHub Repo](https://github.com/ReverseEngineeringDude/Blind-assist.git) |
-| **WireFlow Android App** | <img src="https://raw.githubusercontent.com/ReverseEngineeringDude/WireFlow/main/assets/icon.png" width="80"/> | [GitHub Repo](https://github.com/ReverseEngineeringDude/WireFlow.git) |
-| **WireFlow Web** | <img src="https://raw.githubusercontent.com/ReverseEngineeringDude/WireFlow/main/assets/icon.png" width="80"/> | [GitHub Repo](https://github.com/ReverseEngineeringDude/WireFlowWeb.git) <br> 🌐 [Live Demo](https://reverseengineeringdude.github.io/WireFlowWeb/) |
-| **Techmage Android App** | <img src="https://techmage.in/o/r/app/117/files/static/v174/icons/app-icon-512.png" width="80"/> | [GitHub Repo](https://github.com/ReverseEngineeringDude/ThechMage.git) |
-| **Late Pass** | <img src="https://raw.githubusercontent.com/ReverseEngineeringDude/LatePass/main/assets/logo_no_bg.png" width="80"/> | [GitHub Repo](https://github.com/ReverseEngineeringDude/LatePass.git) |
-| **DataStructure** | <img src="https://raw.githubusercontent.com/ReverseEngineeringDude/DataStructure/main/icons/Icon-192.png" width="80"/> | [GitHub Repo](https://github.com/ReverseEngineeringDude/DataStructure.git) <br> 🌐 [Live Demo](https://reverseengineeringdude.github.io/DataStructure/) |
-
-</div>
-
----
+## Connect With Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ReverseEngineeringDude&label=Profile%20views&color=blue&style=flat" alt="views" />
+  <a href="https://t.me/reverseengineeringdude"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://x.com/redbytesec"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/redbytesec"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@ReverseEngineeringDude"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://instagram.com/Red_byte.sec"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://fb.com/redbyte.sec"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A23,100:00FFFF&height=100&section=footer" width="100%" alt="footer" />
